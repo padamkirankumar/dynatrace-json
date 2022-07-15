@@ -1,2 +1,2 @@
 token=dt0c01.2ABXANNI7N2K4A3G2GKPGHJ7.KT5TQZOWMQPRRUTDJNAZSARDKG4BE3WOQJ4VBMSC77VYUYDKK5SLNBUL4IVMGRYK
-httpurl=https://cga96512.live.dynatrace.com
+httpurl=https://cga96512.live.dynatrace.com/api/config/v1/dashboards
