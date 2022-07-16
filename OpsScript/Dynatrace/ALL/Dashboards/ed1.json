@@ -7,7 +7,7 @@
     "clusterVersion": "Mock version"
   },
   "dashboardMetadata": {
-    "name": "Example Dashboard1",
+    "name": "Example Dashboard all",
     "owner": "Example Owner",
     "shared": true,
     "dashboardFilter": {
